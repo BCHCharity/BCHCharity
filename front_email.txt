@@ -1,1 +1,0 @@
-Email: <a href='mailto:yourmail@email.com'>yourmail@mail.com</a>
